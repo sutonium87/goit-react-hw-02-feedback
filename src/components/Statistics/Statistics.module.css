@@ -1,0 +1,25 @@
+/* Statistics.module.css */
+
+.statistics-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.statistics-item {
+  margin-bottom: 10px;
+}
+
+.statistics-label {
+  font-weight: bold;
+}
+
+.statistics-value {
+  margin-left: 5px;
+}
+
+.positive-feedback {
+  color: green;
+}

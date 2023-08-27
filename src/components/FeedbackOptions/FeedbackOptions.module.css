@@ -1,0 +1,21 @@
+/* Styling for the container of the feedback buttons */
+.feedback-options-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* Styling for each feedback button */
+.feedback-button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.feedback-button:hover {
+  background-color: #45a049;
+}
